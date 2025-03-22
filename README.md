@@ -2,8 +2,8 @@
 Developed a Python-based system to automate structured data extraction from PDF documents. Implemented regular expressions to accurately identify and categorize invoice and acknowledgment numbers, storing the extracted data in a PostgreSQL database to enhance data management efficiency and accuracy.
 
 # Prerequisites
-Python 3.x
-PostgreSQL Database
+. Python 3.x
+. PostgreSQL Database
 Tesseract OCR (Ensure it's installed and path configured)
 Install the Libraries using 
 pip install pytesseract
